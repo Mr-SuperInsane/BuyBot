@@ -21,6 +21,7 @@ while True:
             break
     except:
         driver.refresh()
+        sleep(5)
 
 #ログイン処理
 driver.find_element_by_id("ap_email").send_keys(email)
