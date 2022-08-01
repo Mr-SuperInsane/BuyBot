@@ -24,6 +24,7 @@ Open the project on the Heroku website, click on created "Project", click on "Se
 - https://github.com/heroku/heroku-buildpack-chromedriver.git  
 - https://github.com/heroku/heroku-buildpack-google-chrome.git  
   
+on cmd or terminal  
 - git init
 - git add .
 - git remote add heroku https:// (When you created heroku's project, you can get https://~~)
