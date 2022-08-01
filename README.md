@@ -6,6 +6,8 @@ Please Pay Attention!!!
 
 You must not modify "sleep()". If you change it, you may get your Amazon account deleted.  
 
+You can use this program on japan. If you wanna use one on other country, you have to make vpn(Internet).
+
 ## How to use??
 
 First : You have to install "Heroku CLI" and "Git".  
